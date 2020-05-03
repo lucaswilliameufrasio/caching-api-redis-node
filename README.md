@@ -1,6 +1,6 @@
 # Caching API - Redis and Node
 
-This is a project created guided by the tutorial of codeburst and is the purpose is to cache data to optimize the next requests and, of course, improve performance. You can see in the images below how it affected the performance of the API.
+This is a project created guided by the tutorial of codeburst and it's purpose is to cache data to optimize the next requests and, of course, improve performance. You can see in the images below how it affected the performance of the API.
 
 ### Before caching
 ![Before caching we reached the response in 467 ms](https://raw.githubusercontent.com/lucaswilliameufrasio/caching-api-redis-node/assets/before-caching.png)
